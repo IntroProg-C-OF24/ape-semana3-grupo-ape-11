@@ -13,6 +13,7 @@ public class Ejercicio01 {
         double resultado = (variable1 + variable2 + variable3 + variable4) / 
                 variable5 + Math.sqrt(variable6);
         System.out.println(resultado);
+        //El error que existía es que el ejercicio inial era raíz de 81 y aquí estaba raíz de 80
 
     }
 
