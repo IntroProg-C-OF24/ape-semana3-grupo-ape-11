@@ -12,6 +12,7 @@ public class Ejercicio10 {
         boolean resultado2 = var7 >= var5;
         boolean resultadoFinal = resultado1 && true || false || resultado2;
         System.out.println("La operacion da como resultado: " + resultadoFinal);
+        //ESTE EJERCICIO FUE RESUELTO POR FLOR MARÍA, FELICES PORQUE YA ACABAMOS
     }
     
 }
